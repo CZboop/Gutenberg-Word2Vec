@@ -1,1 +1,1 @@
-"# Gutenberg-Word2Vec" 
+# Gutenberg Word2Vec
